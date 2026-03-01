@@ -60,7 +60,7 @@ By studying this code, you will understand:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Build-GPT-model-with-Python.git
+git clone https://github.com/andresveraf/Build-GPT-model-with-Python.git
 cd Build-GPT-model-with-Python
 
 # No additional dependencies needed! (Pure Python)
